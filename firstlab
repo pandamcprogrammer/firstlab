@@ -1,0 +1,60 @@
+<HTML>
+  <head>
+    <title>This is the title</title>
+    <style>
+      body {
+        color: navy; 
+        background-color: lightblue;
+      }
+
+      li {
+        color: red; 
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    <h2>Hello World!</h2>
+    <h3>Hello World!</h3>
+    <h4>Hello World!</h4>
+    <h5>Hello World!</h5>
+    <h6>Hello World!</h6>
+    
+    <p>Hello world!</p>
+    <p>I Want to type in some text.</p>
+    <p>I am hoping that it will formtat the way I am typing it in</p>
+    <p>Do you think it will</p>
+
+    <hr color= "red" width= "50%">
+
+    <h3>Some color names..</h3>
+    <ul>
+      <li>Red</li>
+      <li>Green</li>
+      <li>Blue</li>
+      <li>Cyan</li>
+    </ul>
+
+    <h3>Assembling a desk</h3>
+    <ol>
+      <li>Unbox the purchase</li>
+      <li>Read the instructions</li>
+      <li>Hire someone to assemble</li>
+      <li>pay them</li>
+    </ol>
+
+    <h3>Web <i>Development</i> Abbreviations</h3>
+    <dl>
+      <dt>RSS<dd>Really Simple <b>Syndication</b></dd></dt>
+      <dt>html<dd>hyperText Markup language</dd></dt>
+      <dt>CSS<dd>Cascading Style Sheets</dd></dt>
+      <dt>XML<dd>eXtensible Markup Language</dd></dt>
+    </dl>
+
+    <a href= "http://www.amazon.com">www.amazon.com</a>
+    <br>
+    <a href= "http://thesunsetresort.com"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg" height=120 width=192 /></a>
+
+    <br><br><br><br><br><br><br><br>
+  </body>
+</HTML>
