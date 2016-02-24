@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="created" content="Fri, 04 Sep 2015 23:40:35 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>CSS Demo exercise</title>
+    <link href="demoStyle.css" rel="stylesheet" type="text/css" />
+	<style>
+		body {	
+			color: pink; background-color:#000;
+		}	
+		
+		h1 {
+			color: red;
+		}
+		
+		h2 {
+			color: lightblue;
+		}
+		
+		p {
+			color:yellow;
+		}
+		
+		#first {
+			color: #888;
+			background-color: #FFF;
+			padding: 20px;
+			border: 4px solid red;
+			margin: 5px;
+			border-radius: 10px;
+		}
+		
+		#intel {
+			font-size: 150%;
+		}
+	</style>
+  </head>
+  <body>
+<h1>Heading One: main heading</h1>
+<h2>First sub heading</h2>
+<p id= "first">Cardigan iPhone Portland, food truck tote bag Pinterest readymade Echo Park listicle plaid four 
+dollar toast Brooklyn occupy tofu. Disrupt kitsch Godard ennui art party migas meh iPhone bitters 
+wayfarers, tousled YOLO cred gluten-free. Beard pop-up Brooklyn, Marfa four dollar toast +1 roof 
+party health goth. Occupy 3 wolf moon biodiesel Blue Bottle, farm-to-table tousled blog chambray 
+cardigan Marfa Portland Williamsburg aesthetic jean shorts tattooed. Trust fund letterpress biodiesel 
+tattooed VHS, fingerstache Thundercats iPhone single-origin coffee migas butcher. Hella VHS polaroid 
+asymmetrical, church-key chambray Marfa wolf McSweeney's aesthetic Kickstarter Godard photo booth tilde. 
+Selvage retro polaroid cred post-ironic, Pinterest brunch pickled Shoreditch Pitchfork hoodie yr tousled 
+chillwave.
+</p>
+<h2>Second sub heading</h2>
+<p>DIY keytar Banksy next level, fashion axe polaroid squid. Umami Blue Bottle American Apparel plaid 
+swag retro flexitarian tousled. Small batch VHS Carles photo booth try-hard. Marfa pug fanny pack, stumptown 
+Williamsburg hella Tumblr shabby chic Schlitz PBR bicycle rights. Next level hella blog, beard bespoke 
+synth meh shabby chic migas 8-bit Echo Park narwhal fingerstache distillery fap. Pour-over banjo artisan, 
+narwhal 3 wolf moon post-ironic Pinterest fashion axe paleo squid fingerstache wayfarers DIY bicycle rights. 
+Single-origin coffee Wes Anderson Schlitz, butcher chia drinking vinegar irony.
+</p>
+<h2>Third sub heading</h2>
+<p>Pug beard hoodie, viral Brooklyn small batch polaroid fashion axe four dollar toast yr Pinterest 
+raw denim hella. Forage vinyl fashion axe sriracha, keytar shabby chic cray kogi fixie photo booth. 
+Sriracha bicycle rights readymade, roof party artisan banjo 3 wolf moon Intelligentsia. Ugh paleo gentrify, 
+bicycle rights pop-up tote bag XOXO chia. Twee Odd Future direct trade health goth Vice High Life hella 
+tattooed selvage. Cray readymade Truffaut pour-over, chia normcore cardigan forage occupy actually hella 
+bespoke. Art party drinking vinegar chambray, DIY slow-carb 8-bit keffiyeh hashtag XOXO lo-fi.
+</p>
+<p>Biodiesel authentic lo-fi, ethical swag Neutra Schlitz mlkshk Austin direct trade Brooklyn umami mustache 
+semiotics forage. Lomo literally Intelligentsia Vice. Tote bag organic pour-over, ethical meggings 
+cold-pressed normcore authentic Etsy skateboard kogi occupy butcher. Craft beer jean shorts YOLO, ugh 
+normcore Marfa cronut meh bicycle rights meggings VHS trust fund. Pug beard +1 before they sold out 
+Intelligentsia. Cred flexitarian drinking vinegar, ugh biodiesel Vice lumbersexual chambray stumptown 
+vegan ennui slow-carb 90's. Austin umami Helvetica 90's Williamsburg, PBR&B aesthetic kale chips kitsch 
+sriracha.
+</p>
+<h2>Fourth sub heading</h2>
+<p>Letterpress PBR cred aesthetic, Etsy YOLO pop-up sriracha church-key. Keffiyeh iPhone fap, salvia 
+Bushwick ugh seitan craft beer four loko Tumblr. 3 wolf moon keytar cornhole, vinyl fanny pack letterpress 
+sustainable kale chips deep v ethical sriracha umami you probably haven't heard of them Bushwick roof party. 
+Before they sold out forage banjo, dreamcatcher try-hard Etsy mustache Godard Wes Anderson artisan authentic 
+single-origin coffee chambray food truck. Tattooed post-ironic crucifix, narwhal Wes Anderson Pinterest 
+Vice gastropub kogi Neutra next level deep v Truffaut. Skateboard chambray Intelligentsia biodiesel, ennui 
+kogi kale chips pop-up. Umami Thundercats four loko, Blue Bottle Austin asymmetrical trust fund.
+</p>
+<p>Single-origin coffee VHS typewriter fap street art wolf. Lomo mumblecore crucifix Vice umami gluten-free 
+cray sriracha. Twee mumblecore whatever fixie. Helvetica gentrify salvia Blue Bottle occupy distillery. 
+Narwhal Echo Park single-origin coffee, Godard tilde PBR pug four loko DIY sartorial 3 wolf moon Bushwick 
+blog. Craft beer trust fund drinking vinegar, synth bitters direct trade +1 tattooed wolf migas Blue Bottle. 
+Tousled Kickstarter fap, swag trust fund stumptown street art beard selfies.
+</p>
+<p>Literally pork belly blog Echo Park. Salvia tousled try-hard Pitchfork narwhal master cleanse, 
+Bushwick wayfarers locavore. High Life sriracha Shoreditch ugh selfies. Deep v pop-up mustache 8-bit, 
+lumbersexual small batch messenger bag before they sold out asymmetrical. Actually jean shorts direct 
+trade squid. Narwhal direct trade pork belly Pinterest, vinyl squid synth McSweeney's drinking vinegar 
+lo-fi Austin cardigan Echo Park leggings disrupt. Letterpress ethical Echo Park, <span id= "intel">Intelligentsia</span> small 
+batch flexitarian Odd Future photo booth umami readymade.
+</p>
+<h2>Summary (Fifth sub heading)</h2>
+<p id="summary">Sartorial Schlitz ugh swag twee, single-origin coffee kogi Helvetica plaid synth tilde slow-carb 
+keffiyeh selfies actually. Biodiesel Echo Park slow-carb, flannel High Life 90's letterpress four loko 
+Etsy ethical authentic church-key. Keffiyeh artisan occupy tilde, retro Brooklyn squid flexitarian food 
+truck Carles 8-bit jean shorts. Sriracha Intelligentsia food truck paleo Banksy shabby chic, chambray hella. 
+Distillery banh mi kitsch shabby chic. Thundercats ennui artisan Tumblr hashtag paleo ethical actually cred, 
+tofu 8-bit raw denim Portland art party twee. Wes Anderson pop-up brunch mumblecore.
+</p>
+  </body>
+</html>
